@@ -39,7 +39,7 @@ while (x < n / 2)
     x = 2 * x;
 ```
 
-- [ ] A. O(log₂n)
+- [x] A. O(log₂n)
 - [ ] B. O(n)
 - [ ] C. O(nlog₂n)
 - [ ] D. O(n²)
@@ -60,7 +60,7 @@ int fact(int n) {
 ```
 
 - [ ] A. O(log₂n)
-- [ ] B. O(n)
+- [x] B. O(n)
 - [ ] C. O(nlog₂n)
 - [ ] D. O(n²)
 
@@ -81,7 +81,7 @@ for (k = 1; k <= n; k *= 2)
 
 - [ ] A. O(log₂n)
 - [ ] B. O(n)
-- [ ] C. O(nlog₂n)
+- [x] C. O(nlog₂n)
 - [ ] D. O(n²)
 
 ---
@@ -100,7 +100,7 @@ for (int i = 1; i < n; i *= 2)
 ```
 
 - [ ] A. O(log₂n)
-- [ ] B. O(n)
+- [x] B. O(n)
 - [ ] C. O(nlog₂n)
 - [ ] D. O(n²)
 
@@ -116,7 +116,7 @@ for (int i=0; i*i<n; i++)
 ```
 
 - [ ] A. O(log₂n)
-- [ ] B. O(n)
+- [x] B. O(n)
 - [ ] C. O(nlog₂n)
 - [ ] D. O(n²)
 
@@ -138,7 +138,7 @@ int func(int n) {
 ```
 
 - [ ] A. O(log₂n)
-- [ ] B. O(√n)
+- [x] B. O(√n)
 - [ ] C. O(n)
 - [ ] D. O(nlog₂n)
 
@@ -153,7 +153,7 @@ while (n >= (x + 1) * (x + 1))
 ```
 
 - [ ] A. O(log₂n)
-- [ ] B. O(√n)
+- [x] B. O(√n)
 - [ ] C. O(n)
 - [ ] D. O(n²)
 
