@@ -612,7 +612,7 @@ graph tests: 18/18 passed
 3. 全图 DFS、BFS；
 4. 18 组测试的完整输出及汇总行。
 
-编译环境：g++ 11.4.0，`-std=c++17 -Wall -Wextra -Werror`，编译无警告；`cmake 3.22.1` 构建 Debug 版本。
+> 编译与运行环境：g++ 11.4.0（`-std=c++17 -Wall -Wextra -Werror`，编译零警告）、cmake 3.22.1，Debug 版本构建；以下为实际运行输出。
 
 ```text
 邻接矩阵：
